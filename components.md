@@ -16,3 +16,6 @@ Metodos por los cual se comunica el S.O con el hardware
 (**Por consultas**) El S.O mira si la tarjeta tiene datos
 ### Interrupciones
 El hardware interrumpe el sistema operativo para decir que tiene datos.
+
+
+chown root:inf archivo
