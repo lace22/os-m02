@@ -1,12 +1,12 @@
-#Components d'un S.O.
+# Components d'un S.O.
 
-##Kernel
+## Kernel
 - Planificar cpu.
 - administrador memoria.
 
-##Cache
+## Cache
 
-(Insertar aqui esquema de lo de la caché)
-##Sistema I/O
+**(Insertar aqui esquema de lo de la caché)**
+## Sistema I/O
 
-COntrola como repartir los Inputs y Outputs que usa cada aplicacion con el hardware
+Controla como repartir los Inputs y Outputs que usa cada aplicacion con el hardware
