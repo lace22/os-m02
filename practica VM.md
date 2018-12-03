@@ -84,9 +84,10 @@ Comproveu que el servei libvirtd està funcionant: systemctl status libvirtd i s
 	- ens10 (Routed): 192.168.6.206
 
 4. **Proveu ara (sense aturar la màquina virtual) de canviar la memòria RAM. Mireu dins la màquina (top/htop) si ha canviat. Quines conclusions en treieu?**
-
+	- Si ha cambiat, trec la conclusió de que Fedora está pensat per maquines virtuals o servidors per no haber de pararlos
 
 5. **Mireu al maquinari de la màquina virtual quines opcions d'arrencada disposa i indiqueu-los aquí.**
+
 
 6. **Amb la màquina arrencada feu ús de la línia d'ordres i amb l'ordre virsh indiqueu les ordres per tal de:**
 - Suspendre la màquina virtual (pausar):
